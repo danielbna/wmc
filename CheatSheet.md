@@ -52,7 +52,7 @@
 
 ### 1. What is the html head element?
 
-- <head> element contains meta-information about the document, such as the title, character set, and links to stylesheets and scripts.
+- head element contains meta-information about the document, such as the title, character set, and links to stylesheets and scripts.
 
 ### 2. What does <!DOCTYPE` html> mean?
 
@@ -60,12 +60,12 @@
 
 ### 3. What are the two top most elements within the html element?
 
-- <html> element usually contains the <head> and <body> elements.
+- html element usually contains the <head> and <body> elements.
 
 ### 4. How to emphasize a text and how is it displayed in the browser?
 
-- <em> ; displays text in italic to display emphasis.
+- em ; displays text in italic to display emphasis.
 
 ### 5. How to mark up important ext and how is it displayed in the browser?
 
-- <strong> ; displays text in bold to display importance.
+- strong ; displays text in bold to display importance.
