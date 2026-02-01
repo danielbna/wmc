@@ -9,7 +9,6 @@ Document your progress by creating summaries and programming the examples. Push 
    | Task      | Duration| Progress (time or %) | Completed |
    |-----------|-----------|-----------|-----------|
    | [Codecademy - Introdcution to javaScript](https://www.codecademy.com/learn/introduction-to-javascript)|   15h       | 100%     |yes      |
-   | [freeCodeCamp - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)|   3h 27 min       | 0 % or "h min"       |yes/no       |
 
 2. HTTP Networking - Work through the following topics
 
@@ -38,3 +37,4 @@ Document your progress by creating summaries and programming the examples. Push 
 
 
 - [Learn JavaScript DOM Manipulation – Tutorial for Beginners](https://www.youtube.com/watch?v=IWRS_AM2fiE)
+
